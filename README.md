@@ -12,8 +12,9 @@
   <div><center>&ensp;&ensp;&ensp;free to browse around my</center></div>
   <div><center>&ensp;&ensp;&ensp;public repositories! I'm also</center></div>
   <div><center>&ensp;&ensp;&ensp;developing an interest in</center></div>
-  <div><center>&ensp;&ensp;&ensp;in competitive programming so feel free to check</center></div>
-  <center>&ensp;&ensp;&ensp;out how I'm doing!</center>
+  <div><center>&ensp;&ensp;&ensp;in competitive programming so feel</center></div>
+  <div><center>&ensp;&ensp;&ensp;free to check out how</center></div>
+  <center>&ensp;&ensp;&ensp;I'm doing!</center>
   <div>&ensp;</div>
   
   <div><center>&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<a href="https://leetcode.com/dylanhood/">My LeetCode Profile</a></center></div>
