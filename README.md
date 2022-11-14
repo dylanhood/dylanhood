@@ -17,9 +17,9 @@
   <center>&ensp;&ensp;&ensp;I'm doing!</center>
   <div>&ensp;</div>
   
-  <div><center>&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<a href="https://leetcode.com/dylanhood/">My LeetCode Profile</a></center></div>
+  <div><center>&ensp;&ensp;&ensp;<a href="https://leetcode.com/dylanhood/">My LeetCode Profile</a></center></div>
   <div>&ensp;</div>
-  <div><center>&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<a href="https://codeforces.com/profile/dylandhood/">My Codeforces Profile</a></center></div>
+  <div><center>&ensp;&ensp;&ensp;<a href="https://codeforces.com/profile/dylandhood/">My Codeforces Profile</a></center></div>
   <div>&ensp;</div>
-  <div><center>&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<a href="https://www.codechef.com/users/dylandhood">My CodeChef Profile</a></center></div>
+  <div><center>&ensp;&ensp;&ensp;<a href="https://www.codechef.com/users/dylandhood">My CodeChef Profile</a></center></div>
 </body>
