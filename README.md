@@ -12,8 +12,8 @@
   <div><center>&ensp;&ensp;&ensp;free to browse around my</center></div>
   <div><center>&ensp;&ensp;&ensp;public repositories! I'm also</center></div>
   <div><center>&ensp;&ensp;&ensp;developing an interest in</center></div>
-  <div><center>&ensp;&ensp;&ensp;in competitive programming so feel</center></div>
-  <div><center>&ensp;&ensp;&ensp;free to check out how</center></div>
+  <div><center>&ensp;&ensp;&ensp;in competitive programming so</center></div>
+  <div><center>&ensp;&ensp;&ensp;feel free to check out how</center></div>
   <center>&ensp;&ensp;&ensp;I'm doing!</center>
   <div>&ensp;</div>
   
