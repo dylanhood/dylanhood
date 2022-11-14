@@ -8,8 +8,8 @@
   <div>&ensp;</div>
   <div><center>&ensp;&ensp;&ensp;My name is Dylan Hood and I'm</center></div>
   <div><center>&ensp;&ensp;&ensp;seeking quant/tech internships</center></div>
-  <div><center>&ensp;&ensp;&ensp;for the summer of 2023!</center></div>
-  <div><center>&ensp;&ensp;&ensp;internships for the summer of 2023! Feel for the</center></div>
+  <div><center>&ensp;&ensp;&ensp;for the summer of 2023! Feel</center></div>
+  <div><center>&ensp;&ensp;&ensp;free to browse around my</center></div>
   <div><center>&ensp;&ensp;&ensp;summer of 2023! Feel free to browse around my</center></div>
   <div><center>&ensp;&ensp;&ensp;public repositories! I'm also developing an interest</center></div>
   <div><center>&ensp;&ensp;&ensp;in competitive programming so feel free to check</center></div>
