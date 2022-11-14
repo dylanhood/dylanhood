@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" height="340" src="https://steamuserimages-a.akamaihd.net/ugc/866242507557557934/6C3D401F9D951B5B2A747EC36578FB7BCBDC9F26/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <body>
-  <div><center><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Welcome to my profile!</b></center></div>
+  <div><center><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Welcome to my profile!</b></center></div>
   <div>&ensp;</div>
   <div><center>&ensp;&ensp;&ensp;My name is Dylan Hood and I'm seeking quant/tech</center></div>
   <div><center>&ensp;&ensp;&ensp;internships for the summer of 2023! Feel for the</center></div>
