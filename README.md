@@ -10,7 +10,6 @@
   <div><center>&ensp;&ensp;&ensp;seeking quant/tech internships</center></div>
   <div><center>&ensp;&ensp;&ensp;for the summer of 2023! Feel</center></div>
   <div><center>&ensp;&ensp;&ensp;free to browse around my</center></div>
-  <div><center>&ensp;&ensp;&ensp;summer of 2023! Feel free to browse around my</center></div>
   <div><center>&ensp;&ensp;&ensp;public repositories! I'm also developing an interest</center></div>
   <div><center>&ensp;&ensp;&ensp;in competitive programming so feel free to check</center></div>
   <center>&ensp;&ensp;&ensp;out how I'm doing!</center>
