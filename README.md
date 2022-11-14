@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/dylanhood/dylanhood/master/Github banner.jpg" alt="banner">
-
+<img src="https://user-images.githubusercontent.com/66035537/201723367-7694b160-fb7c-4fb5-ba75-076a5a2ba854.jpg" alt="banner">
 
 <div>&ensp;</div>
 
