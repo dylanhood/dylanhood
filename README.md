@@ -1,4 +1,4 @@
-![My project (1)](https://user-images.githubusercontent.com/66035537/201983405-a6378717-7927-4851-a0ff-19ce0c648528.jpg)
+![Yeezy Album Discography](https://user-images.githubusercontent.com/66035537/201983588-b88b83fd-9339-45e0-b874-510d0df696d1.jpg)
 
 </br>
 
