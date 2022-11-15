@@ -17,10 +17,8 @@
   <center>I'm doing!</center>
   <div>&ensp;</div>
   
-  [![code-forces (1)](https://user-images.githubusercontent.com/66035537/201943086-73ae43df-0a31-441f-81d6-c33d9314d40d.png)](https://codeforces.com/profile/dylandhood/) &nbsp;Codeforces
+  [![leetcode (7)](https://user-images.githubusercontent.com/66035537/201956658-4052d2ea-1fb9-40a8-8143-1452fb1007cc.png)](https://leetcode.com/dylanhood/) <b>&nbsp;LeetCode</b>
   
-  <div><center><a href="https://leetcode.com/dylanhood/">My LeetCode Profile</a></center></div>
-  <div>&ensp;</div>
-  <div><center><a href="https://codeforces.com/profile/dylandhood/">My Codeforces Profile</a></center></div>
-  <div>&ensp;</div>
-  <div><center><a href="https://www.codechef.com/users/dylandhood">My CodeChef Profile</a></center></div>
+  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;Codeforces</b>
+  
+  [![icons8-codechef-32 (1)](https://user-images.githubusercontent.com/66035537/201960103-fb3cee81-1b9a-47b1-99b2-eb3060316f90.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;CodeChef</b>
