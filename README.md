@@ -21,4 +21,4 @@
   
   [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;Codeforces Profile</b>
   
-  [![icons8-codechef-32 (3)](https://user-images.githubusercontent.com/66035537/201962092-59ce5a77-84a8-4979-a1c3-075b8cf6f27e.png))](https://codeforces.com/profile/dylandhood/) <b>&nbsp;CodeChef Profile</b>
+  [![icons8-codechef-32 (3)](https://user-images.githubusercontent.com/66035537/201962092-59ce5a77-84a8-4979-a1c3-075b8cf6f27e.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;CodeChef Profile</b>
