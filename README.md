@@ -17,8 +17,8 @@
   <center>I'm doing!</center>
   <div>&ensp;</div>
   
-  [![leetcode (7)](https://user-images.githubusercontent.com/66035537/201956658-4052d2ea-1fb9-40a8-8143-1452fb1007cc.png)](https://leetcode.com/dylanhood/) <b>&nbsp;LeetCode</b>
+  [![leetcode (7)](https://user-images.githubusercontent.com/66035537/201956658-4052d2ea-1fb9-40a8-8143-1452fb1007cc.png)](https://leetcode.com/dylanhood/) <b>&nbsp;LeetCode Profile</b>
   
-  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;Codeforces</b>
+  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;Codeforces Profile</b>
   
-  [![icons8-codechef-32 (1)](https://user-images.githubusercontent.com/66035537/201960103-fb3cee81-1b9a-47b1-99b2-eb3060316f90.png)](https://codeforces.com/profile/dylandhood/) <b>&nbsp;CodeChef</b>
+  [![icons8-codechef-32 (3)](https://user-images.githubusercontent.com/66035537/201962092-59ce5a77-84a8-4979-a1c3-075b8cf6f27e.png))](https://codeforces.com/profile/dylandhood/) <b>&nbsp;CodeChef Profile</b>
