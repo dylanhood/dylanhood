@@ -1,4 +1,4 @@
-![My project](https://user-images.githubusercontent.com/66035537/201982930-c030bc16-be6b-46f1-ab9f-4156ed2af567.jpg)
+![My project (1)](https://user-images.githubusercontent.com/66035537/201983405-a6378717-7927-4851-a0ff-19ce0c648528.jpg)
 
 </br>
 
