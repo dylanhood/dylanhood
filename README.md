@@ -1,4 +1,4 @@
-![Yeezy Album Discography](https://user-images.githubusercontent.com/66035537/201983588-b88b83fd-9339-45e0-b874-510d0df696d1.jpg)
+![Cherenkov Radiation](https://user-images.githubusercontent.com/66035537/206879982-d050e59a-29d0-4d36-829e-52955d180226.jpg)
 
 </br>
 
