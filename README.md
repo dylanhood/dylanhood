@@ -1,5 +1,4 @@
-![cherenkov-blue-water-5720d1e43df78c564073e887-5c46353e46e0fb000192ad59](https://user-images.githubusercontent.com/66035537/206880143-681a0b09-e7d6-4523-9936-ec89db92f77a.jpg)
-
+![Advanced_Test_Reactor](https://user-images.githubusercontent.com/66035537/206880151-db91a41d-ecab-455f-a46a-abb890c640c4.jpg)
 </br>
 
 <div>&ensp;</div>
