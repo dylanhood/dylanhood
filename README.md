@@ -1,4 +1,4 @@
-![cherenkov-blue-water-5720d1e43df78c564073e887-5c46353e46e0fb000192ad59](https://user-images.githubusercontent.com/66035537/206880095-faa4f516-0911-4001-b940-cc97c3da5dbd.jpg)
+![cherenkov-blue-water-5720d1e43df78c564073e887-5c46353e46e0fb000192ad59](https://user-images.githubusercontent.com/66035537/206880113-2bbaeb6e-9f55-4d43-9bfc-fdb83b28779a.jpg)
 
 </br>
 
