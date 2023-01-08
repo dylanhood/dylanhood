@@ -4,7 +4,11 @@
 <div>&ensp;</div>
 
   <div><center><b>Welcome to my profile!</b></center></div>
-  <div>&ensp;</div>
+  <div><b>&ensp;</b></div>
+  
+ [![linkedin (2)](https://user-images.githubusercontent.com/66035537/211176328-96d1f229-81fa-4a49-a845-d549eabaee54.png)](https://www.linkedin.com/in/dylandantehood/) <b>&nbsp;LinkedIn Profile</b>
+  
+  <div><b>&ensp;</b></div>
   <div><center>My name is Dylan Hood and I'm</center></div>
   <div><center>seeking quant/tech internships</center></div>
   <div><center>for the summer of 2023! Feel</center></div>
