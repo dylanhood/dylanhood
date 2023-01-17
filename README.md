@@ -2,6 +2,10 @@
 ![Advanced_Test_Reactor](https://user-images.githubusercontent.com/66035537/206880151-db91a41d-ecab-455f-a46a-abb890c640c4.jpg)
 </br>
 
+<p align="center">  
+  <a href="github.com/dylanhood/"><img src="https://komarev.com/ghpvc/?username=dylanhood&style=flat-square" /></a>
+</p>
+
 <div>&ensp;</div>
 
   <div><center><b>Welcome to my profile!</b></center></div>
