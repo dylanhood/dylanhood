@@ -15,6 +15,10 @@
  &nbsp; <a href="https://www.linkedin.com/in/dylandantehood/"><kbd><b>LinkedIn Profile</b></kbd></a>
  <br></br>
   <div><b>&ensp;</b></div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook)](https://github.com/dylanhood/github-readme-stats)
+  
+  <div><b>&ensp;</b></div>
   <div><center>My name is Dylan Hood and I'm</center></div>
   <div><center>seeking quant/tech internships</center></div>
   <div><center>for the summer of 2023! Feel</center></div>
