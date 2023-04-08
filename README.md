@@ -1,3 +1,11 @@
+<div>&nbsp;</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Quantitative%20Developer;Software%20Engineer;Fullstack%20Developer;Interest%20In%20Machine%20Learning%20%26%20Quantitative%20Research&font=Abhay+Libre&center=true&color=FF0000FF&size=30&weight=900&height=40&pause=1000&width=1000&duration=2500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Quantitative%20Developer;Software%20Engineer;Fullstack%20Developer;Interest%20In%20Machine%20Learning%20%26%20Quantitative%20Research&font=Fira%20Code&center=true&color=FFCA26FF&Center=true&size=30&weight=900&height=40&pause=1000&width=1000&duration=2500" />
+</picture>
+
+<div>&nbsp;</div>
 
 ![Advanced_Test_Reactor](https://user-images.githubusercontent.com/66035537/206880151-db91a41d-ecab-455f-a46a-abb890c640c4.jpg)
 </br>
@@ -16,7 +24,11 @@
  <br></br>
   <div><b>&ensp;</b></div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=500)](https://github.com/dylanhood/github-readme-stats)
+  [![Total Commits](https://github-readme-stats.vercel.app/api/total-commits/?username=dylanhoodi&count_private=true&include_all_commits=true&theme=aura)
+  
+  <div><b>&ensp;</b></div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&custom_title=Used%20%26%20Preferred&nbsp;Languages&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=500&text_color=fff&title_color=fff&bg_color=30,e96443,904e95)](https://github.com/dylanhood/github-readme-stats)
   
   <div><b>&ensp;</b></div>
   <div><center>My name is Dylan Hood and I'm</center></div>
