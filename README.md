@@ -14,19 +14,26 @@
 
 <div>&ensp;</div>
 
+<a href="https://github.com/dylanhood/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanhood&count_private=true&bg_color=30,E0E0E0,A8A8A8&title_color=4900CD&f&line_height=48&text_color=0019C8&card_width=400&custom_title=Total+Public+Commits&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true" />
+</a>&ensp;&ensp;
+<a href="https://github.com/dylanhood/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&custom_title=Used%20%26%20Preferred&nbsp;Languages&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=500&text_color=fff&title_color=fff&bg_color=30,e96443,904e95" />
+</a>
+
+ <div><b>&ensp;</b></div>
+ 
+ <div><b>&ensp;</b></div>
+ 
+ <div><b>&ensp;</b></div>
+
   <div><center><b>Welcome to my profile!</b></center></div>
   <div><b>&ensp;</b></div>
   
  [![linkedin (2)](https://user-images.githubusercontent.com/66035537/211176328-96d1f229-81fa-4a49-a845-d549eabaee54.png)](https://www.linkedin.com/in/dylandantehood/) 
  &nbsp; <a href="https://www.linkedin.com/in/dylandantehood/"><kbd><b>LinkedIn Profile</b></kbd></a>
- <br></br>
-  <div><b>&ensp;</b></div>
-  
-  [![Total Commits](https://github-readme-stats.vercel.app/api/total-commits/?username=dylanhoodi&count_private=true&include_all_commits=true&theme=aura)
-  
-  <div><b>&ensp;</b></div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&custom_title=Used%20%26%20Preferred&nbsp;Languages&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=500&text_color=fff&title_color=fff&bg_color=30,e96443,904e95)](https://github.com/dylanhood/github-readme-stats)
+ 
+ <br>
   
   <div><b>&ensp;</b></div>
   <div><center>My name is Dylan Hood and I'm</center></div>
