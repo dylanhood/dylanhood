@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Quantitative%20Developer;Software%20Engineer;Fullstack%20Developer;Interest%20In%20Machine%20Learning%20%26%20Quantitative%20Research&font=Abhay+Libre&center=true&color=FF0000FF&size=30&weight=900&height=40&pause=1000&width=1000&duration=2500" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Quantitative%20Developer;Software%20Engineer;Fullstack%20Developer;Interest%20In%20Machine%20Learning%20%26%20Quantitative%20Research&font=Fira%20Code&center=true&color=FFCA26FF&Center=true&size=35&weight=900&height=40&pause=1000&width=1000&duration=2500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Quantitative%20Developer;Software%20Engineer;Fullstack%20Developer;Interest%20In%20Machine%20Learning%20%26%20Quantitative%20Research&font=Fira%20Code&center=true&color=FFCA26FF&Center=true&size=32&weight=900&height=40&pause=1000&width=1000&duration=2500" />
 </picture>
 
 <div>&nbsp;</div>
