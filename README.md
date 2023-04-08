@@ -16,7 +16,7 @@
  <br></br>
   <div><b>&ensp;</b></div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook)](https://github.com/dylanhood/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=500)](https://github.com/dylanhood/github-readme-stats)
   
   <div><b>&ensp;</b></div>
   <div><center>My name is Dylan Hood and I'm</center></div>
