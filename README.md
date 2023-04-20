@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanhood&count_private=true&bg_color=30,E0E0E0,A8A8A8&title_color=4900CD&f&line_height=48&text_color=0019C8&card_width=350&custom_title=Total+Public+Commits&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true" />
 </a>&ensp;
 <a href="https://github.com/dylanhood/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&custom_title=Used%20%26%20Preferred&nbsp;Languages&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=450&text_color=fff&title_color=fff&bg_color=30,e96443,904e95" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanhood&custom_title=Used%20Languages&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook&card_width=450&text_color=fff&title_color=fff&bg_color=30,e96443,904e95" />
 </a>
 
  <div><b>&ensp;</b></div>
