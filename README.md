@@ -36,13 +36,11 @@
  <br>
   
   <div><b>&ensp;</b></div>
-  <div><center>My name is Dylan Hood and I'm</center></div>
-  <div><center>seeking quant/tech internships</center></div>
-  <div><center>for the summer of 2023! Feel</center></div>
-  <div><center>free to browse around my</center></div>
+  <div><center>My name is Dylan Hood!</center></div>>
+  <div><center>Feel free to browse around my</center></div>
   <div><center>public repositories! I'm also</center></div>
   <div><center>developing an interest in</center></div>
-  <div><center>in competitive programming so</center></div>
+  <div><center>competitive programming so</center></div>
   <div><center>feel free to check out how</center></div>
   <center>I'm doing!</center>
   <div>&ensp;</div>
