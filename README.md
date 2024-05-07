@@ -49,7 +49,7 @@
   
   [![leetcode (7)](https://user-images.githubusercontent.com/66035537/201956658-4052d2ea-1fb9-40a8-8143-1452fb1007cc.png)](https://leetcode.com/dylanhood/) &nbsp; <a href="https://leetcode.com/dylanhood/"><kbd><b>LeetCode Profile</b></kbd></a>
   
-  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/dylandhood/) &nbsp; <a href="https://codeforces.com/profile/dylandhood/"><kbd><b>Codeforces Profile</b></kbd></a>
+  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/IAmFractallyWrong) &nbsp; <a href="https://codeforces.com/profile/IAmFractallyWrong"><kbd><b>Codeforces Profile</b></kbd></a>
   
   [![icons8-codechef-32 (3)](https://user-images.githubusercontent.com/66035537/201962092-59ce5a77-84a8-4979-a1c3-075b8cf6f27e.png)](https://www.codechef.com/users/dylandhood) &nbsp; <a href="https://www.codechef.com/users/dylandhood"><kbd><b>CodeChef Profile</b></kbd></a>
   
