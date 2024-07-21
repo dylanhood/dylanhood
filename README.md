@@ -54,7 +54,7 @@
   ![kaggle](https://user-images.githubusercontent.com/66035537/230707983-b5835b99-627e-4951-a115-76732d10de15.png)&nbsp;&nbsp; <a href="https://www.kaggle.com/dylanhood"><kbd><b>Kaggle Profile</b></kbd></a>
 
   
-  [![leetcode (7)](https://user-images.githubusercontent.com/66035537/201956658-4052d2ea-1fb9-40a8-8143-1452fb1007cc.png)](https://leetcode.com/u/IAmFractallyWrong/) &nbsp; <a href="https://leetcode.com/u/IAmFractallyWrong/"><kbd><b>LeetCode Profile</b></kbd></a>
+  [![leetcode (7)](https://user-images.githubusercontent.com/66035537/201956658-4052d2ea-1fb9-40a8-8143-1452fb1007cc.png)](https://leetcode.com/u/FractalEfflorescence/) &nbsp; <a href="https://leetcode.com/u/FractalEfflorescence/"><kbd><b>LeetCode Profile</b></kbd></a>
 
 ![hackerrank](https://user-images.githubusercontent.com/66035537/230708230-b4c2fc58-b99b-43bf-aea5-6aa0f3ab101d.png)&nbsp;&nbsp; <a href="https://www.hackerrank.com/dylandhood"><kbd><b>HackerRank Profile</b></kbd></a>
 
