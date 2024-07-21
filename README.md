@@ -47,7 +47,7 @@
   <center>I'm doing!</center>
   <div>&ensp;</div>
   
-  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/IAmFractallyWrong) &nbsp; <a href="https://codeforces.com/profile/IAmFractallyWrong"><kbd><b>Codeforces Profile</b></kbd></a>
+  [![code-forces-3628695 (2)](https://user-images.githubusercontent.com/66035537/201957944-983ea457-9c91-4d39-b15d-90784650d45a.png)](https://codeforces.com/profile/FractalEfflorescence) &nbsp; <a href="https://codeforces.com/profile/FractalEfflorescence"><kbd><b>Codeforces Profile</b></kbd></a>
   
   [![icons8-codechef-32 (3)](https://user-images.githubusercontent.com/66035537/201962092-59ce5a77-84a8-4979-a1c3-075b8cf6f27e.png)](https://www.codechef.com/users/wenotcooking) &nbsp; <a href="https://www.codechef.com/users/wenotcooking"><kbd><b>CodeChef Profile</b></kbd></a>
   
